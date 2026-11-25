@@ -4,7 +4,7 @@ Projeto completo para Laboratório de Programação 1, com MVC, MPA, Flask/Jinja
 
 ## Comece aqui
 
-Leia **docs/ROTEIRO_ALUNO.md** para instalação, criação do banco, GitHub, Vercel e domínio; **docs/MANUAL_SISTEMA.md** para operar; **docs/ARQUITETURA.md** para estudar o código; **docs/AVALIACAO_PROFESSOR.md** para validar.
+Leia **docs/ROTEIRO_ALUNO.md** para instalação, criação do banco, GitHub, Vercel e domínio; **docs/MANUAL_SISTEMA.md** para operar; **docs/ARQUITETURA.md** para estudar o código; **docs/AVALIACAO_PROFESSOR.md** para validar. legal né?
 
 ```bash
 python3 -m venv .venv
